@@ -1,0 +1,40 @@
+{
+  "revenue": {
+    "Today": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "Yesterday": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "Last_7_Days": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "last_30_days": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "last_60_days": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "last_90_days": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "Last_Month": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "last_year": {
+      "price": 450000,
+      "percentage": 75
+    },
+    "year_to_date": {
+      "price": 450000,
+      "percentage": 75
+    }
+  }
+}
